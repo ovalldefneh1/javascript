@@ -7,7 +7,7 @@
 
   "comment": "MD002: First header should be a top level header.",
   "first-header-h1": true,
-
+    
   "comment": "MD003: Header style: start with hashes.",
   "header-style": {
     "style": "atx"
